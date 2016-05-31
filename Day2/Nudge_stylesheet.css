@@ -1,0 +1,62 @@
+body {
+	padding: 0;
+	margin:0;
+}
+
+.wrapper { 
+
+}
+.logo img {
+	margin-left: 35px;
+	margin-top: 25px;
+	width: 88px;
+	height: 45px;
+	/*float: left;*/
+	/*border-style: solid;*/
+}
+/.buttons {
+	float: left;
+}
+
+.image-div {
+	float: left;
+	margin-top: 100;
+}
+
+
+.links img {
+	width :320px;
+	height: 10px;
+	margin-top: 40px;
+	margin-left:340px;
+	/*border-style: solid;*/
+	float: left;
+
+}
+.social_media img {
+ 	float:right;
+ 	width: 120px;
+ 	height: 60px;
+}
+
+.description {
+	border-style: solid;
+	border-color: white;
+	margin-top: 40px;
+	font-size: 40px; 
+	font-family: "Times New Roman", Times, serif;
+	color: black;
+
+}
+.images{
+
+}
+.footer {
+	margin-top: 40px;
+	font-color: lightgrey;
+
+}
+
+.clearblock{
+	clear: both;
+}
