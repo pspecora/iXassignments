@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <link rel="stylesheet" href="belancio.stylesheet.css>
+  
+    <body>
+    <div class=".wrapper">
+
+      <div class=".header">
+      </div>
+        <div class="logo"> Belancio
+        <
+        </div>
+
+        <div class="toolbar">
+        </div>
+          <div class="About"> About
+          </div>
+          <div class="Design"> Design
+          </div>
+          <div class="Contact"> Contact
+          </div>
+      <div class=".image">
+      </div>
+      <div class=".clients">
+      </div>
+      <div class=".credo"> We are a design + branding firm with a passion to make life beautiful.
+      </div>
+        <div class="button"> View our work
+        </div>
+      <div class=".footer">
+      </div>
+        <div class=".logo_footer"> Belancio
+        </div>
+        <div class=".logo_toolbar">
+        </div>
+          <div class="About"> About
+          </div>
+          <div class="Design"> Design
+          </div>
+          <div class="Contact"> Contact
+        <div class=".credit"> We love california and copyright
+        </div>
+<body>
+</html>

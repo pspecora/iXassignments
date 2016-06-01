@@ -1,0 +1,71 @@
+body {
+	padding: 0;
+	margin:0;
+	font-style: helvetica;
+}
+
+.wrapper{ 
+
+}
+.header {
+	background-color: #433C34;
+}
+.logo{
+	margin-left: 20px;
+	margin-top: 23px;
+	font-style: helvetica;
+	color: white;
+
+	float: left;
+
+
+}
+
+.clearblock {
+		clear: both;
+}
+
+.toolbar {
+	display: inline-block;
+	color: grey;
+}
+
+.links {
+	float: right;
+	margin-left: 20px;
+	margin-right: 30px;
+	color: white;
+
+}
+
+.image img { 
+	height: 700px;
+	width: 1350px;
+}
+
+.clients {
+	background-color: white;
+	margin-left: 70px;
+	margin-top: 30px;
+	font-size: 30px
+
+}
+
+.client_pic img {
+	height: 80px;
+	width: 90px;
+}
+
+.credo {
+
+}
+
+.button {
+
+}
+
+.logo_footer {
+
+}
+
+.
